@@ -1,0 +1,72 @@
+[
+    {
+       "id":1,
+       "name":"Andres Dordi",
+       "email":"AndresDordi@gmail.com",
+       "gender":"masculino",
+       "status":"active"
+    },
+    {
+       "id":2,
+       "name":"Lucio Bertolini ",
+       "email":"LucioBertolini@gmail.com",
+       "gender":"male",
+       "status":"active"
+    },
+    {
+       "id":3,
+       "name":"Pedro Martin",
+       "email":"MartinPedro@gmail.com",
+       "gender":"male",
+       "status":"inactive"
+    },
+    {
+        "id":4,
+        "name":"Andres Dordi",
+        "email":"AndresDordi@gmail.com",
+        "gender":"masculino",
+        "status":"inactive"
+     },
+    {
+        "id":5,
+        "name":"Lucio Bertolini ",
+        "email":"LucioBertolini@gmail.com",
+        "gender":"male",
+        "status":"active"
+     },
+    {
+       "id":6,
+       "name":"Bandhu Panicker II",
+       "email":"panicker_bandhu_ii@kertzmann-runte.info",
+       "gender":"female",
+       "status":"inactive"
+    },
+    {
+       "id":7,
+       "name":"Deevakar Johar Esq.",
+       "email":"deevakar_johar_esq@bode-nicolas.name",
+       "gender":"female",
+       "status":"inactive"
+    },
+    {
+       "id":8,
+       "name":"Ajit Khan",
+       "email":"khan_ajit@leannon.org",
+       "gender":"male",
+       "status":"inactive"
+    },
+    {
+       "id":9,
+       "name":"Birjesh Ahuja",
+       "email":"birjesh_ahuja@wehner-damore.info",
+       "gender":"female",
+       "status":"active"
+    },
+    {
+       "id":10,
+       "name":"Ananda Khatri",
+       "email":"khatri_ananda@bednar.org",
+       "gender":"female",
+       "status":"inactive"
+    }
+ ]
